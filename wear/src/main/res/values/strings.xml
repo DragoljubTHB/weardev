@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Abgleich</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="choose_button_list">go to list</string>
+    <string name="choose_button_networking">go to live networking</string>
+    <string name="activity_network_key">item_name</string>
+    <string name="activity_network_value">item_value</string>
+    <string name="activity_network_button_send">send</string>
+    <string name="activity_network_button_save">save itemContainerModel</string>
+    <string name="service_wear_path_pattern">/W</string>
+</resources>
